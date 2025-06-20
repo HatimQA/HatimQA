@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<img height="300" src="https://t4.ftcdn.net/jpg/04/52/82/59/360_F_452825937_GmSapljUy0ivF6DeAFsUCoAAvzOAqsw5.jpg"  />
+<img height="200"  width="800" src="https://t4.ftcdn.net/jpg/04/52/82/59/360_F_452825937_GmSapljUy0ivF6DeAFsUCoAAvzOAqsw5.jpg"  />
 </div>
 
 ### 
