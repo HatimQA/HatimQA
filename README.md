@@ -48,18 +48,12 @@
  
   
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="microsoftsqlserver logo"  />
-  <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="19" />
+ 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSqDKaYYtxSS8S-nfAdp_vlYHcq1401M6IZA&s" height="50" alt="eclipse"  />
   <img width="19" />
   <img src="https://static-00.iconduck.com/assets.00/selenium-icon-512x496-obrnvg2v.png" height="50" alt="selenium logo"  />
-  <img width="19" />
- 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/BurpSuite_Comunity_Edition.svg/800px-BurpSuite_Comunity_Edition.svg.png" height="50" alt="burpsuite logo"  />
+  <img width="19" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/BurpSuite_Comunity_Edition.svg/800px-BurpSuite_Comunity_Edition.svg.png" height="50" alt="burpsuite  logo"  /> <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
   <img width="19" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
@@ -67,7 +61,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" alt="linkedin logo"  />
   <img width="19" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="50" alt="chrome logo"  />
-  <img width="19" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="50" alt="wordpress logo"  />
+  <img width="19" /> <img src="https://images.seeklogo.com/logo-png/38/1/jmeter-logo-png_seeklogo-388141.png" height="50" alt="wordpress logo"  />
+  <img width="19" />
+  <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" height="60" alt="linkedin logo"  />
+  <img width="25" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="microsoftsqlserver logo"  />
+  <img width="19" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img width="19" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
   <img width="19" />
 </div>
 
