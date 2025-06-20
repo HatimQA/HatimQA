@@ -61,7 +61,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" alt="linkedin logo"  />
   <img width="19" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="50" alt="chrome logo"  />
-  <img width="19" /> <img src="https://images.seeklogo.com/logo-png/38/1/jmeter-logo-png_seeklogo-388141.png" height="50" alt="wordpress logo"  />
   <img width="19" />
   <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" height="60" alt="linkedin logo"  />
   <img width="25" />
