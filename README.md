@@ -51,7 +51,7 @@
  
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSqDKaYYtxSS8S-nfAdp_vlYHcq1401M6IZA&s" height="50" alt="eclipse"  />
   <img width="19" />
-  <img src="https://static-00.iconduck.com/assets.00/selenium-icon-512x496-obrnvg2v.png" height="50" alt="selenium logo"  />
+  <img src="https://miro.medium.com/v2/resize:fit:1050/1*wIlKQE9BlAjzFlTJYCgaNw.png" height="50" alt="selenium logo"  />
   <img width="19" /> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/BurpSuite_Comunity_Edition.svg/800px-BurpSuite_Comunity_Edition.svg.png" height="50" alt="burpsuite  logo"  /> <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
